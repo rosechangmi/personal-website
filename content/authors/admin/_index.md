@@ -21,7 +21,7 @@ email: rosechangtj0@gmail.com
 superuser: true
 highlight_name: true
 ---
-Rose Chang is currently working as a lab manager at the [Computational Clinical Science Lab](https://ccs-lab.github.io/) and a research assistant at the [Eating Anxiety Treatment Lab](http://www.louisvilleeatlab.com/).
+Rose Chang is currently working as a lab manager at the [Computational Clinical Science Lab](https://ccs-lab.github.io/) directed by Dr. Woo-Young Ahn and a research assistant at the [Eating Anxiety Treatment Lab](http://www.louisvilleeatlab.com/) directed by Dr. Cheri A. Levinson.
 
 She is interested in understanding the underlying mechanisms of psychiatric disorders, particularly those of anxiety and eating disorders, for the development of a more effective and individualized treatment. After gaining relevant experience, she plans to continue her journey by pursuing a PhD in clinical psychology.
 
