@@ -20,21 +20,13 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rose-chang-62596212a/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BA in Psychology and Philosophy
+      institution: Vanderbilt University
+      year: 2019
+email: rosechangtj0@gmail.com
 superuser: true
 highlight_name: true
 ---
