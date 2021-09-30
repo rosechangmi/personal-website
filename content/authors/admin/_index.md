@@ -2,8 +2,7 @@
 title: Rose Seoyoung Chang
 role: Lab Manager/Research Assistant
 avatar_filename: kakaotalk_photo_2019-05-31-12-24-07.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests: []
 social:
   - icon: graduation-cap
