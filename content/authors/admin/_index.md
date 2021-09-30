@@ -1,7 +1,7 @@
 ---
 title: Rose Seoyoung Chang
 role: Lab Manager/Research Assistant
-avatar_filename: kakaotalk_photo_2019-05-31-12-24-07.jpeg
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social:
