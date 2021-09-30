@@ -5,27 +5,15 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=fLtCiwMAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rose-chang-62596212a/
 organizations: []
 education:
-  courses:
-    - course: BA in Psychology and Philosophy
-      institution: Vanderbilt University
-      year: 2019
+  courses: []
 email: rosechangtj0@gmail.com
 superuser: true
 highlight_name: true
