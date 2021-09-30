@@ -15,7 +15,7 @@ organizations: []
 education:
   courses:
     - institution: Vanderbilt University
-      course: BA in Psychology and Philosophy
+      course: Bachelor of Arts in Psychology and Philosophy
       year: 2019
 email: rosechangtj0@gmail.com
 superuser: true
