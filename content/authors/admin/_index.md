@@ -13,7 +13,10 @@ social:
     link: https://www.linkedin.com/in/rose-chang-62596212a/
 organizations: []
 education:
-  courses: []
+  courses:
+    - institution: Vanderbilt University
+      course: BA in Psychology and Philosophy
+      year: 2019
 email: rosechangtj0@gmail.com
 superuser: true
 highlight_name: true
