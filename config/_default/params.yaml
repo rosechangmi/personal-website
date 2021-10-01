@@ -25,9 +25,9 @@ phone: +82 10 5213 1245
 address:
   street: Building 16, Room M309, Seoul National University
   city: Seoul
-#  region:
+region:
   postcode: '08826'
-  country: Republic of Korea
+  country: South Korea
 #  country_code: US
 #coordinates:
  # latitude: '37.4275'
