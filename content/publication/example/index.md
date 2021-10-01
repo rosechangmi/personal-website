@@ -1,79 +1,62 @@
 ---
-title: "An example conference paper"
+abstract: >-
+  Background
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+  Emotional eating has emerged as a contributing factor to overeating, potentially leading to obesity or disordered eating behaviors. However, the underlying biological mechanisms related to emotional eating remain unclear. The present study examined emotional, hormonal, and neural alterations elicited by an acute laboratory stressor in individuals with and without emotional eating.
+
+
+  Methods
+
+  Emotional (n = 13) and non-emotional eaters (n = 15) completed two main study visits, one week apart: one visit included a Stress version and the other a No-stress version of the Maastricht Acute Stress Task (MAST). Immediately pre- and post-MAST, blood was drawn for serum cortisol and participants rated their anxiety level. After the MAST, participants completed a Food Incentive Delay (FID) task during functional magnetic resonance imaging (fMRI), followed by an ad libitum snack period.
+
+
+  Results
+
+  Emotional eaters exhibited elevated anxiety (p = 0.037) and cortisol (p = 0.001) in response to the Stress MAST. There were no changes in anxiety or cortisol among non-emotional eaters in response to the Stress MAST or in either group in response to the No-stress MAST. In response to the Stress MAST, emotional eaters exhibited reduced activation during anticipation of food reward in mesolimbic reward regions (caudate: p = 0.014, nucleus accumbens: p = 0.022, putamen: p = 0.013), compared to non-emotional eaters. Groups did not differ in snack consumption.
+
+
+  Conclusions
+
+  These data indicate disrupted neuroendocrine and neural responsivity to psychosocial stress amongst otherwise-healthy emotional eaters, who demonstrated hyperactive HPA-axis response coupled with hypoactivation in reward circuitry. Differential responsivity to stress may represent a risk factor in the development of maladaptive eating behaviors.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Rose Seoyoung Chang
+  - Hilâl Cerit
+  - Taryn Hye
+  - E. Leighton Durham
+  - Harlyn Aizley
+  - Sarah Boukezzi
+  - Florina Haimovici
+  - Jill M. Goldstein
+  - Daniel G. Dillon
+  - Diego A. Pizzagalli
+  - Laura M.Holsen
+author_notes: []
+publication: In *Appetite*
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Stress-induced alterations in HPA-axis reactivity and mesolimbic reward
+  activation in individuals with emotional eating
+doi: https://doi.org/10.1016/j.appet.2021.105707
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2021-09-30T07:39:36.091Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
