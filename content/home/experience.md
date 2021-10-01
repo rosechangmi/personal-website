@@ -22,42 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Eating Anxiety Treatment Lab
+  - title: 'Research Assistant'
+    company: 'Eating Anxiety Treatment Lab'
     company_url: 'http://www.louisvilleeatlab.com/'
-    company_logo: eatlab-logo
-    location: Kentucky, USA (remote)
+    company_logo: 'eatlab-logo'
+    location: 'Kentucky, USA (remote)'
     date_start: '2021-01-01'
     date_end: ''
         
-  - title: Lab Manager
-    company: Computational Clinical Scinece Lab
+  - title: 'Lab Manager'
+    company: 'Computational Clinical Scinece Lab'
     company_url: 'https://ccs-lab.github.io/'
-    company_logo: ccs-logo
-    location: Seoul, South Korea
+    company_logo: 'ccs-logo'
+    location: 'Seoul, South Korea'
     date_start: '2020-09-01'
     date_end: ''
 
-  - title: Clinical Research Assistant
-    company: Holsen Lab
+  - title: 'Clinical Research Assistant'
+    company: 'Holsen Lab'
     company_url: 'https://holsenlab.bwh.harvard.edu/'
-    company_logo: holsen-logo
-    location: Massachusetts, USA
+    company_logo: 'holsen-logo'
+    location: 'Massachusetts, USA'
     date_start: '2019-07-01'
     date_end: '2020-07-30'
 
-  - title: Undergraduate Research Assistant
-    company: Emotion & Anxiety Research Lab
+  - title: 'Undergraduate Research Assistant'
+    company: 'Emotion & Anxiety Research Lab'
     company_url: 'https://earlatvanderbilt.wordpress.com/'
-    company_logo: earl-logo
-    location: Tennessee, USA
+    company_logo: 'earl-logo'
+    location: 'Tennessee, USA'
     date_start: '2018-08-01'
     date_end: '2019-05-20'
 
-  - title: Studio Staff
-    company: Vanderbilt Institute for Digital Learning
-    company_logo: earl-logo
-    location: Tennessee, USA
+  - title: 'Studio Staff'
+    company: 'Vanderbilt Institute for Digital Learning'
+    company_logo: 'earl-logo'
+    location: 'Tennessee, USA'
     date_start: '2018-01-01'
     date_end: '2019-05-20'
 
