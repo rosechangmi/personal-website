@@ -29,12 +29,6 @@ experience:
     location: Kentucky, USA (remote)
     date_start: '2021-01-01'
     date_end: ''
-#    description: |2-
-#        Responsibilities include:
-#        
-#        * Analysing
-#        * Modelling
-#        * Deploying
         
   - title: Lab Manager
     company: Computational Clinical Scinece Lab
@@ -43,7 +37,6 @@ experience:
     location: Seoul, South Korea
     date_start: '2020-09-01'
     date_end: ''
-#    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Clinical Research Assistant
     company: Holsen Lab
@@ -52,7 +45,6 @@ experience:
     location: Massachusetts, USA
     date_start: '2019-07-01'
     date_end: '2020-07-30'
-#    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Undergraduate Research Assistant
     company: Emotion & Anxiety Research Lab
@@ -61,7 +53,6 @@ experience:
     location: Tennessee, USA
     date_start: '2018-08-01'
     date_end: '2019-05-20'
-#    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Studio Staff
     company: Vanderbilt Institute for Digital Learning
@@ -69,8 +60,7 @@ experience:
     location: Tennessee, USA
     date_start: '2018-01-01'
     date_end: '2019-05-20'
-#    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '5'
+  columns: '2'
 ---
